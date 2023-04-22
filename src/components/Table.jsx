@@ -47,7 +47,7 @@ function Table() {
   });
   return (
     <form>
-      <TableTemplate key="temlpate" striped="columns" size="xl">
+      <TableTemplate striped="columns" size="xl">
         <tbody>
           {shops}
           <tr>
