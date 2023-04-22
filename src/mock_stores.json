@@ -8,12 +8,12 @@
       {
         "id": "1_1",
         "name": "JAN",
-        "value": 5
+        "value": 0
       },
       {
         "id": "2_1",
         "name": "FEB",
-        "value": 5
+        "value": 0
       },
       {
         "id": "3_1",
@@ -76,7 +76,7 @@
       {
         "id": "1_2",
         "name": "JAN",
-        "value": 7
+        "value": 0
       },
       {
         "id": "2_2",
