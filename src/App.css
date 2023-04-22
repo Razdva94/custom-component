@@ -1,4 +1,7 @@
 .table__size {
  height: 40px;
- max-width: 80px;
+ margin: 0;
+}
+.body{
+  line-height: normal;
 }
